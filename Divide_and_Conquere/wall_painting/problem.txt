@@ -1,0 +1,16 @@
+We have a wall that could be painted horizontaly or vertically.
+Find minimum steps to paint the wall
+input format :
+number of inputs
+inputs
+exp.1
+
+2
+1 1
+
+the above wall has 2 columns each with a height of 1 so we could paint the wall horizontally.
+
+exp.2
+
+5
+2 3 1 4 5

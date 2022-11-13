@@ -1,0 +1,3 @@
+H:/Sharif/COURSES/DA/Codes/Algorithms/Dynamic/the_Or_question/cpp/cmake-build-debug/CMakeFiles/cpp.dir
+H:/Sharif/COURSES/DA/Codes/Algorithms/Dynamic/the_Or_question/cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/Sharif/COURSES/DA/Codes/Algorithms/Dynamic/the_Or_question/cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
