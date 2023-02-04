@@ -30,3 +30,43 @@
 *.exe
 *.out
 *.app
+*.xml
+*.iml
+*.make
+*.json
+*.cmake
+*.bin
+*.cbp
+*.txt
+*.c
+*/cmake-build-debug/
+
+
+# CLion-specific files
+.idea/
+cmake-build-debug/
+cmake-build-release/
+
+# Compiled files
+*.o
+*.exe
+*.dll
+
+# Debug files
+*.pdb
+
+# Linux build files
+*.so
+
+# macOS build files
+*.dSYM/
+
+# Executable files
+a.out
+
+# Libraries
+lib*
+
+# Test outputs
+tests/test-reports/
+
